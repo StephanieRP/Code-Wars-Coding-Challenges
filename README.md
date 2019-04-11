@@ -1,2 +1,2 @@
-# Code-Wars-Coding-Challenges
+# Coding-Challenges
 practicing javascript 
